@@ -1,5 +1,7 @@
 {
   "name": "SurfShop",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
